@@ -19,7 +19,7 @@
 <a href="https://leetcode.com/u/Ayush_Verma_120" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-<a href="mailto:av5380@srmist.edu.in">
+<a href="mailto:av99994444@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
