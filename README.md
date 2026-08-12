@@ -26,7 +26,7 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 I turn AI research into working products. Computer Science undergraduate at SRM Institute of Science and Technology, I build systems that sit at the intersection of **machine learning, computer vision, and full-stack engineering** — and I care more about what ships than what looks good in a notebook.
 
@@ -36,16 +36,16 @@ A few things I've built: a wildlife intelligence platform that identifies specie
 
 | Area | Details |
 |---|---|
-| 🧠 **AI/ML** | TensorFlow, PyTorch, YOLOv8, computer vision, NLP, agentic AI workflows (LangGraph) |
-| 🛠️ **Full-Stack** | Python/FastAPI backends, React.js frontends, REST APIs, Docker-based deployment |
-| 🧩 **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
-| 🚀 **Approach** | Ship the imperfect version, then iterate — momentum over perfection |
+|  **AI/ML** | TensorFlow, PyTorch, YOLOv8, computer vision, NLP, agentic AI workflows (LangGraph) |
+|  **Full-Stack** | Python/FastAPI backends, React.js frontends, REST APIs, Docker-based deployment |
+|  **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
+|  **Approach** | Ship the imperfect version, then iterate — momentum over perfection |
 
 **Right now**, I'm building an AI-powered wildlife intelligence platform end-to-end through a project-based internship with **Infosys Springboard**, alongside an internship in **AI Automation & Intelligent Solutions** with BharatCares (AICTE / IBM SkillsBuild).
 
 Off-screen, I'm a competitive chess player ♟️ — the same long-horizon thinking that wins games is what I bring to debugging and system design.
 
-📫 **Open to:** AI/ML roles, Full-Stack Engineering, and Forward Deployed Engineer opportunities — reach out via [LinkedIn](https://linkedin.com/in/ayush-verma-1967392b8) or [email](mailto:av5380@srmist.edu.in).
+ **Open to:** AI/ML roles, Full-Stack Engineering, and Forward Deployed Engineer opportunities — reach out via [LinkedIn](https://linkedin.com/in/ayush-verma-1967392b8) or [email](mailto:av5380@srmist.edu.in).
 
 ---
 
@@ -97,7 +97,7 @@ Off-screen, I'm a competitive chess player ♟️ — the same long-horizon thin
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🚗 [Advanced ANPR System](https://github.com/piratesofthecaribbean/Advanced-ANPR-System)
 `Python` `YOLOv8` `PyTorch` `OpenCV` `EasyOCR`
@@ -134,4 +134,4 @@ AI platform for automated species identification, population estimation, and bio
 
 ---
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on AI/ML and full-stack projects. Let's build something that ships. 🚀</i></p>
+<p align="center"><i>Thanks for stopping by — always open to collaborating on AI/ML and full-stack projects. Let's build something that ships. </i></p>
