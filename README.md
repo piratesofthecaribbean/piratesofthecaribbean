@@ -111,7 +111,7 @@ Real-time Automatic License Plate Recognition (ALPR) pipeline using YOLOv8 objec
 `React` `FastAPI` `PostgreSQL` `Gemini API` `LangGraph`
 Multilingual civic-grievance platform supporting complaint reporting via speech or text, with live status tracking. Powered by four AI agents — classification & urgency scoring, transcription, social-post drafting, and grievance-portal lookup — orchestrated via LangGraph. JWT authentication, Supabase cloud storage, and responsible-AI safeguards; deployed via Render and Vercel.
 
-#### 🦎 AI-Powered Wildlife Population Intelligence System
+#### 🦎[AI-Powered Wildlife Population Intelligence System](https://github.com/piratesofthecaribbean/Wildlife-Population-Intelligence-System)
 `Python` `FastAPI` `YOLOv8` `TensorFlow` `React.js`
 AI platform for automated species identification, population estimation, and biodiversity analysis — combining computer vision (YOLOv8) for image-based species detection with bioacoustic models (BirdNET, YAMNet) for animal-call recognition. Habitat-intelligence and conservation-recommendation engines with automated ecosystem health scoring, containerized and deployed via Docker with JWT-based access control.
 
