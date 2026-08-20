@@ -99,19 +99,19 @@ Off-screen, I'm a competitive chess player ♟️ — the same long-horizon thin
 
 ###  Featured Projects
 
-#### 🚗 [Advanced ANPR System](https://github.com/piratesofthecaribbean/Advanced-ANPR-System)
+####  [Advanced ANPR System](https://github.com/piratesofthecaribbean/Advanced-ANPR-System)
 `Python` `YOLOv8` `PyTorch` `OpenCV` `EasyOCR`
 Real-time Automatic License Plate Recognition (ALPR) pipeline using YOLOv8 object detection and EasyOCR text extraction, with image preprocessing and regex-based validation tuned for Indian number-plate formats — works across both images and video streams.
 
-#### 📱 [QRBloom — QR Code Generator](https://github.com/piratesofthecaribbean/qr_code_generator)
+####  [QRBloom — QR Code Generator](https://github.com/piratesofthecaribbean/qr_code_generator)
 `React.js` `Vite` `JavaScript`
 100% client-side, privacy-first QR code generator with zero server communication. Real-time debounced preview, customizable size, color, and error-correction levels — built with React 18 and Vite.
 
-#### 🗣️ [CivicVoice AI — Agentic AI Platform for Civic Complaint Registration & Resolution](https://github.com/piratesofthecaribbean/CivicVoiceAI)
+####  [CivicVoice AI — Agentic AI Platform for Civic Complaint Registration & Resolution](https://github.com/piratesofthecaribbean/CivicVoiceAI)
 `React` `FastAPI` `PostgreSQL` `Gemini API` `LangGraph`
 Multilingual civic-grievance platform supporting complaint reporting via speech or text, with live status tracking. Powered by four AI agents — classification & urgency scoring, transcription, social-post drafting, and grievance-portal lookup — orchestrated via LangGraph. JWT authentication, Supabase cloud storage, and responsible-AI safeguards; deployed via Render and Vercel.
 
-#### 🦎[AI-Powered Wildlife Population Intelligence System](https://github.com/piratesofthecaribbean/Wildlife-Population-Intelligence-System)
+#### [AI-Powered Wildlife Population Intelligence System](https://github.com/piratesofthecaribbean/Wildlife-Population-Intelligence-System)
 `Python` `FastAPI` `YOLOv8` `TensorFlow` `React.js`
 AI platform for automated species identification, population estimation, and biodiversity analysis — combining computer vision (YOLOv8) for image-based species detection with bioacoustic models (BirdNET, YAMNet) for animal-call recognition. Habitat-intelligence and conservation-recommendation engines with automated ecosystem health scoring, containerized and deployed via Docker with JWT-based access control.
 
