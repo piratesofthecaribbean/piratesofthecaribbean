@@ -1,7 +1,8 @@
-[README.md](https://github.com/user-attachments/files/32773036/README.md)<!-- ═══════════════ HEADER ═══════════════ -->
+[README.md](https://github.com/user-attachments/files/32773134/README.md)
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%7C%20AI%2FML%20%26%20Full-Stack%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Ayush Verma banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%7C%20AI%2FML%20and%20Full-Stack%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Ayush Verma banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=I+build+AI+that+actually+ships;Computer+Vision+%7C+NLP+%7C+Agentic+AI+(LangGraph+%2B+Gemini);FastAPI+%7C+React+%7C+PostgreSQL+%7C+Docker+%7C+AWS%2FAzure;From+ambiguous+problems+to+production-style+systems;Infosys+Springboard+%2B+IBM+SkillsBuild+%2B+AICTE" alt="Typing SVG"/>
