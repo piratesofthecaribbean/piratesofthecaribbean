@@ -1,137 +1,221 @@
-<h1 align="center">Hi, I'm Ayush Verma 👋</h1>
-<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; Full-Stack Developer &nbsp;|&nbsp; Forward Deployed Engineer (aspiring)</h3>
+[README.md](https://github.com/user-attachments/files/32772937/README.md)
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1668C9&center=true&vCenter=true&width=650&lines=I+build+AI+that+actually+ships;Computer+Vision+%7C+NLP+%7C+Agentic+AI+Systems;From+notebook+to+production%2C+end+to+end;Currently%3A+Infosys+Springboard+%2B+IBM+SkillsBuild" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%7C%20AI%2FML%20%26%20Full-Stack%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Ayush Verma banner"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piratesofthecaribbean&label=Profile%20Views&color=1668C9&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat" alt="Open to opportunities"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=I+build+AI+that+actually+ships;Computer+Vision+%7C+NLP+%7C+Agentic+AI+(LangGraph+%2B+Gemini);FastAPI+%7C+React+%7C+PostgreSQL+%7C+Docker+%7C+AWS%2FAzure;From+ambiguous+problems+to+production-style+systems;Infosys+Springboard+%2B+IBM+SkillsBuild+%2B+AICTE" alt="Typing SVG"/>
+</a>
 
-<p align="center">
-<a href="https://linkedin.com/in/ayush-verma-1967392b8" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/Ayush_Verma_120" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="mailto:av99994444@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=piratesofthecaribbean&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Open to opportunities"/>
+<img src="https://img.shields.io/badge/CGPA-8.95%2F10-blueviolet?style=for-the-badge" alt="CGPA"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/ayush-verma-1967392b8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Ayush_Verma_120"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:av99994444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
-###  About Me
+## 👨‍💻 About Me
 
-I turn AI research into working products. Computer Science undergraduate at SRM Institute of Science and Technology, I build systems that sit at the intersection of **machine learning, computer vision, and full-stack engineering** — and I care more about what ships than what looks good in a notebook.
+```python
+class AyushVerma:
+    role        = "Forward Deployed Engineer (aspiring) | AI/ML & Full-Stack Software Engineer"
+    education   = "B.Tech CSE @ SRM Institute of Science and Technology, Ghaziabad (2023–2027) | CGPA 8.95/10"
+    location    = "Ghaziabad, India 🇮🇳"
+    focus       = ["Agentic AI", "Computer Vision", "NLP", "Bioacoustics", "REST APIs", "Cloud Deployment"]
+    superpower  = "Turning ambiguous, real-world stakeholder problems into working, documented solutions"
+    currently   = "Shipping AI systems end to end — Infosys Springboard × IBM SkillsBuild / AICTE"
+    off_screen  = "Competitive chess ♟️ — long-horizon thinking for debugging and system design"
+    open_to     = ["Forward Deployed Engineer", "AI/ML Engineer", "Full-Stack Engineer"]
+```
 
-A few things I've built: a wildlife intelligence platform that identifies species from images *and* animal calls using YOLOv8 and bioacoustic models, a civic-complaint system powered by four coordinated AI agents talking to each other via LangGraph, and a license-plate recognition pipeline that runs in real time on both images and video. Different domains, same approach — take a genuinely useful idea, take it end-to-end, and make it hold up in the real world.
+I build, integrate and deploy **production-style AI and full-stack systems end to end** — from data ingestion, computer vision and NLP pipelines to **REST APIs, PostgreSQL/SQL data layers, analytics dashboards and Dockerized cloud deployments (AWS / Azure / Render / Vercel)**. I'm at my best when the problem is messy: translating requirements, integrating systems, troubleshooting, and documenting what I ship so others can use it.
 
-**What I bring to a team:**
+### 🎯 What I Bring to a Team
 
 | Area | Details |
-|---|---|
-|  **AI/ML** | TensorFlow, PyTorch, YOLOv8, computer vision, NLP, agentic AI workflows (LangGraph) |
-|  **Full-Stack** | Python/FastAPI backends, React.js frontends, REST APIs, Docker-based deployment |
-|  **CS Fundamentals** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
-|  **Approach** | Ship the imperfect version, then iterate — momentum over perfection |
-
-**Right now**, I'm building an AI-powered wildlife intelligence platform end-to-end through a project-based internship with **Infosys Springboard**, alongside an internship in **AI Automation & Intelligent Solutions** with BharatCares (AICTE / IBM SkillsBuild).
-
-Off-screen, I'm a competitive chess player ♟️ — the same long-horizon thinking that wins games is what I bring to debugging and system design.
-
- **Open to:** AI/ML roles, Full-Stack Engineering, and Forward Deployed Engineer opportunities — reach out via [LinkedIn](https://linkedin.com/in/ayush-verma-1967392b8) or [email](mailto:av5380@srmist.edu.in).
+| :-- | :-- |
+| 🤖 **AI / ML & Agentic AI** | LangGraph, Gemini API, LLM Agents, Prompt Engineering, TensorFlow, PyTorch, Scikit-learn, OpenCV, YOLOv8, NLP, Deep Learning |
+| ⚙️ **Backend & Integration** | FastAPI, Express.js, REST APIs, API Design & Documentation (Swagger/OpenAPI), Pydantic, Webhooks, n8n Workflow Automation, JWT Auth, RBAC |
+| 🎨 **Frontend & Dashboards** | React.js, Vite, Tailwind CSS, Recharts, Leaflet, Analytics Dashboards |
+| 🗄️ **Data & Databases** | PostgreSQL, MySQL, MongoDB, SQLite, SQLAlchemy, Alembic, Supabase, Pandas, NumPy, EDA |
+| ☁️ **Cloud & DevOps** | Docker, Docker Compose, Nginx, AWS, Microsoft Azure, Render, Vercel, Git/GitHub, CI/CD fundamentals, Pytest |
+| 🧠 **CS Fundamentals** | DSA, OOP, Operating Systems, DBMS, Computer Networks, Computer Organization & Architecture |
+| 🤝 **Professional Strengths** | Customer-facing problem solving, requirements analysis, troubleshooting & debugging, technical documentation, cross-functional collaboration, ownership & adaptability |
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-<p align="left">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+<div align="center">
 
-**AI / Machine Learning**
-<p align="left">
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8"/>
-<img src="https://img.shields.io/badge/YOLOv8-black?style=for-the-badge&logo=yolo&logoColor=white&color=00FFFF"/>
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,js,cpp,c,postgres&theme=dark" alt="Languages"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
 
-**Web Development**
-<p align="left">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+**AI / ML · Computer Vision · Agentic AI**<br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/YOLOv8%20%2F%20Ultralytics-111F68?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/EasyOCR-00A98F?style=for-the-badge" alt="EasyOCR"/>
+<img src="https://img.shields.io/badge/Librosa-FF7043?style=for-the-badge" alt="Librosa"/>
+<img src="https://img.shields.io/badge/BirdNET-2E7D32?style=for-the-badge" alt="BirdNET"/>
+<img src="https://img.shields.io/badge/YAMNet-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="YAMNet"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NLP-Deep%20Learning-blueviolet?style=for-the-badge" alt="NLP & Deep Learning"/>
 
-**Databases & Cloud**
-<p align="left">
-<img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+**Backend · APIs · Integration**<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger/OpenAPI"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge" alt="Uvicorn"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Webhooks-Integration-orange?style=for-the-badge" alt="Webhooks"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/RBAC-Security-critical?style=for-the-badge" alt="RBAC"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 
-**Tools**
-<p align="left">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+**Frontend · Dashboards**<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="Frontend"/>
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" alt="Recharts"/>
+<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
 
----
+**Databases & Data**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" alt="Alembic"/>
 
-###  Featured Projects
+**Deployment · Cloud · DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,vercel,nginx,git,github,vscode&theme=dark" alt="DevOps"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Fundamentals-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 
-####  [Advanced ANPR System](https://github.com/piratesofthecaribbean/Advanced-ANPR-System)
-`Python` `YOLOv8` `PyTorch` `OpenCV` `EasyOCR`
-Real-time Automatic License Plate Recognition (ALPR) pipeline using YOLOv8 object detection and EasyOCR text extraction, with image preprocessing and regex-based validation tuned for Indian number-plate formats — works across both images and video streams.
-
-####  [QRBloom — QR Code Generator](https://github.com/piratesofthecaribbean/qr_code_generator)
-`React.js` `Vite` `JavaScript`
-100% client-side, privacy-first QR code generator with zero server communication. Real-time debounced preview, customizable size, color, and error-correction levels — built with React 18 and Vite.
-
-####  [CivicVoice AI — Agentic AI Platform for Civic Complaint Registration & Resolution](https://github.com/piratesofthecaribbean/CivicVoiceAI)
-`React` `FastAPI` `PostgreSQL` `Gemini API` `LangGraph`
-Multilingual civic-grievance platform supporting complaint reporting via speech or text, with live status tracking. Powered by four AI agents — classification & urgency scoring, transcription, social-post drafting, and grievance-portal lookup — orchestrated via LangGraph. JWT authentication, Supabase cloud storage, and responsible-AI safeguards; deployed via Render and Vercel.
-
-#### [AI-Powered Wildlife Population Intelligence System](https://github.com/piratesofthecaribbean/Wildlife-Population-Intelligence-System)
-`Python` `FastAPI` `YOLOv8` `TensorFlow` `React.js`
-AI platform for automated species identification, population estimation, and biodiversity analysis — combining computer vision (YOLOv8) for image-based species detection with bioacoustic models (BirdNET, YAMNet) for animal-call recognition. Habitat-intelligence and conservation-recommendation engines with automated ecosystem health scoring, containerized and deployed via Docker with JWT-based access control.
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piratesofthecaribbean&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratesofthecaribbean&layout=compact&theme=dark&hide_border=false"/>
-</p>
+### 🏛️ [CivicVoice AI — Agentic AI Platform for Civic Complaint Registration & Resolution](https://github.com/piratesofthecaribbean/CivicVoiceAI)
+`Python` `FastAPI` `React.js` `Vite` `LangGraph` `Gemini API` `PostgreSQL` `SQLAlchemy` `JWT` `Supabase Storage` `n8n` `Render` `Vercel`
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=piratesofthecaribbean&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
+An agentic, **voice-first civic-grievance platform aligned with UN SDG 11**. Residents register water, drainage, electricity, sanitation and road complaints via text or regional-language voice notes, with ward-level accountability and live status updates.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=piratesofthecaribbean&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+- 🤖 **Multi-agent LangGraph workflow (Gemini API):** language detection, transcription & translation, complaint classification, weighted safety-rubric **urgency scoring (1–5) with logged reasoning**, and automatic routing to the right municipal department — with a **rule-based keyword-classifier fallback** when the LLM is unreachable.
+- ⚙️ **FastAPI REST backend:** SQLAlchemy models for complaints, wards and departments, seeded administrative data, JWT authentication and Supabase object storage for photo/video evidence.
+- 📊 **React + Vite admin dashboard:** ward-accountability metrics, average resolution time, complaint explorer with live status, and a citizen-intake simulator; **WhatsApp/webhook intake via n8n** workflow orchestration.
+- 🛡️ **Responsible AI:** verified-vs-inferred source tagging, human review before official submission, live LLM integration tests for classification accuracy. Deployed on **Render (backend) + Vercel (frontend)**.
 
 ---
 
-<p align="center"><i>Thanks for stopping by — always open to collaborating on AI/ML and full-stack projects. Let's build something that ships. </i></p>
+### 🦁 [AI-Powered Wildlife Population Intelligence System](https://github.com/piratesofthecaribbean/Wildlife-Population-Intelligence-System)
+`Python` `FastAPI` `YOLOv8` `PyTorch` `TensorFlow` `OpenCV` `BirdNET` `YAMNet` `Librosa` `React 18` `Tailwind CSS` `Recharts` `Leaflet` `PostgreSQL` `Alembic` `Docker` `Nginx` `Pytest` `AWS/Azure`
+
+A microservices-style AI platform (built during my **Infosys Springboard** project internship) that turns **camera-trap images, field surveys and audio recordings into conservation intelligence** — species identification, population estimation & trends, biodiversity metrics, habitat health scoring, alerts and recommendations for researchers, officers and admins.
+
+- 👁️ **Computer vision:** YOLOv8/Ultralytics + PyTorch + OpenCV with configurable model path & confidence threshold; fine-tuned a YOLO model on an African-wildlife dataset.
+- 🔊 **Bioacoustics:** animal-call recognition pipelines using Librosa, BirdNET and YAMNet.
+- ⚙️ **Modular FastAPI backend:** routers/services/models/Pydantic schemas under `/api/v1`, Swagger/OpenAPI docs, SQLAlchemy + Alembic over PostgreSQL, **JWT auth, password hashing and RBAC**.
+- 🌿 **Intelligence engines:** habitat intelligence, ecosystem-health scoring, conservation recommendations and alerting (NumPy, Pandas, scikit-learn) with **PDF/Excel report exports** (ReportLab, OpenPyXL) and SMTP alerts.
+- 🖥️ **React 18 + Vite + Tailwind dashboard:** protected routes, upload workflows, Recharts analytics and Leaflet maps.
+- 🐳 **DevOps:** Dockerized full stack (PostgreSQL, FastAPI, React, Nginx) via Docker Compose; deployed on Vercel + Render; automated tests with Pytest; delivered through a 4-milestone, 8-week roadmap with mentor reviews.
+
+---
+
+### 🚗 [Advanced ANPR System — Automatic Number Plate Recognition](https://github.com/piratesofthecaribbean/Advanced-ANPR-System)
+`Python` `YOLOv8/YOLOv9` `PyTorch` `OpenCV` `EasyOCR` `CustomTkinter` `NumPy` `Pandas` `Regex` `Apple Silicon MPS` `CLI`
+
+A modular, **real-time ALPR pipeline** (detector, OCR, preprocessing, utils) that reads plates from images and MP4/MOV/AVI video.
+
+- 🧼 OpenCV preprocessing — **CLAHE contrast enhancement, bilateral filtering, contour-based perspective deskewing**.
+- 🔤 **Regex validation of Indian plate formats** with position-aware OCR correction (O/0, I/1, S/5, B/8, Z/2) for tilt, poor lighting and motion blur.
+- ⚡ **PyTorch MPS GPU acceleration**, a CLI with tunable YOLO/OCR thresholds, and a CustomTkinter dark-mode GUI with live confidence sliders.
+- 📁 Timestamped logging, annotated outputs and structured **CSV exports** for downstream analytics.
+
+---
+
+### 🌸 [QRBloom — Privacy-First Client-Side QR Code Generator](https://github.com/piratesofthecaribbean/qr_code_generator)
+`React 18` `Vite` `JavaScript (ES6+)` `QRCode.js` `HTML5` `CSS3` `GitHub Pages` `Vercel` `Netlify`
+
+A **zero-backend, 100% client-side** QR generator — no server communication, tracking or sign-up.
+
+- ⏱️ Real-time preview with debounced rendering, custom colors, adjustable size and error-correction up to **Level H (30% recovery)**.
+- 💎 Responsive glass-morphism UI with GPU-accelerated CSS animations.
+- 📦 Tree-shaken lightweight build; cross-browser verified (Chrome, Firefox, Safari, Edge); static-hosting ready.
+
+---
+
+## 💼 Experience
+
+| Role | Organization | When |
+| :-- | :-- | :-- |
+| **AI Automation & Intelligent Solutions Intern** | BharatCares (CSRBOX Group) · AICTE · IBM SkillsBuild | May – Jul 2026 |
+| **Project Intern — Wildlife Population Intelligence System** | Infosys Springboard | Jun – Jul 2026 |
+| **Machine Learning Trainee** | Coincent Technologies Pvt. Ltd. | Nov – Dec 2023 |
+
+- **IBM SkillsBuild / AICTE / BharatCares:** 6-week programme on AI, Agentic AI, Intelligent Automation and Workflow Orchestration; designed and presented an AI solution aligned with the **UN SDGs**; earned a joint AICTE–BharatCares completion certificate.
+- **Infosys Springboard:** built a full-stack AI platform (CV + bioacoustics, JWT/RBAC, REST APIs, analytics dashboards, Docker + cloud) with daily mentor-led assessments.
+- **Coincent Technologies:** ML with Python — preprocessing, EDA, supervised/unsupervised learning, model evaluation with Scikit-learn, Pandas and NumPy.
+
+---
+
+## 🏆 Certifications
+
+`Machine Learning with TensorFlow on Google Cloud` · `IBM SkillsBuild AI NextGen (2026)` · `AI Automation & Intelligent Solutions — IBM SkillsBuild / AICTE / BharatCares` · `Machine Learning with Python — Coincent` · `NLP — NPTEL (IIT Kharagpur)` · `Design & Analysis of Algorithms — NPTEL (IIT Madras)` · `Introduction to AI — IBM` · `Mastering DSA using C/C++ — Udemy` · `Google Networking Fundamentals` · `Microsoft Networking & Cloud Computing` · `Python (Basic) — HackerRank` · `Java (Basic) — HackerRank` · `Infosys Springboard: Python for Data Science, Intro to Data Science, Intro to Deep Learning, Computer Vision, Citizen Data Science using Python`
+
+---
+
+## 🌱 Leadership, Competitions & Volunteering
+
+- 🧭 **Lead Developer — Smart India Hackathon 2024:** led a student team in the college-level round on PS 26151 (NTRO) — *Dark Web Threat Actor De-anonymization*, proposing infrastructure fingerprinting and AI-based persona linkage.
+- 🐞 **Err Hunt 2.0 — CSI (2024):** debugging-focused coding competition.
+- 🔬 **Virtual Labs Workshop — IIT Roorkee (2024)** · **NEP Saarthi Quiz — SRMIST (2025)**
+- 💛 **Volunteer — Gift a Smile Foundation:** career guidance for students; digital-literacy and online-safety teaching for underprivileged communities.
+- ♟️ **Chess:** active competitive player on Chess.com.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=piratesofthecaribbean&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratesofthecaribbean&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=piratesofthecaribbean&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=piratesofthecaribbean&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=piratesofthecaribbean&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's build something that ships
+
+Open to **Forward Deployed Engineer**, **AI/ML** and **Full-Stack** roles — reach out on [LinkedIn](https://linkedin.com/in/ayush-verma-1967392b8) or [email](mailto:av99994444@gmail.com).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
