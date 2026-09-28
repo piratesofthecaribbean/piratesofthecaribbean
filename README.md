@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32772937/README.md)
-<!-- ═══════════════ HEADER ═══════════════ -->
+[README.md](https://github.com/user-attachments/files/32773036/README.md)<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ayush%20Verma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Forward%20Deployed%20Engineer%20%7C%20AI%2FML%20%26%20Full-Stack%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Ayush Verma banner"/>
@@ -197,14 +196,18 @@ A **zero-backend, 100% client-side** QR generator — no server communication, t
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=piratesofthecaribbean&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratesofthecaribbean&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
+<!-- Streak card (renders reliably) -->
 <img src="https://streak-stats.demolab.com/?user=piratesofthecaribbean&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=piratesofthecaribbean&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piratesofthecaribbean&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+<!-- Lightweight badges (shields.io is very stable) -->
+<img src="https://img.shields.io/github/followers/piratesofthecaribbean?style=for-the-badge&logo=github&color=0e75b6" alt="Followers"/>
+
+<br/><br/>
+
+<!-- Contribution calendar (simple image, no Vercel dependency) -->
+<img src="https://ghchart.rshah.org/38BDF8/piratesofthecaribbean" alt="Contribution chart" width="90%"/>
 
 </div>
 
